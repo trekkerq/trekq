@@ -1,0 +1,54 @@
+{
+  "plans": [
+    {
+      "id": "1",
+      "carrier": "AXA Assistance",
+      "description": "AXA Assistance travel insurance",
+      "prodName": "Gold FL",
+      "prodAddAt": "10/10/2020"
+    },
+    {
+      "id": "2",
+      "carrier": "AXA Assistance",
+      "description": "AXA Assistance travel insurance",
+      "prodName": "Silver",
+      "prodAddAt": "10/10/2020"
+    },
+    {
+      "id": "3",
+      "carrier": "AXA Assistance",
+      "description": "AXA Assistance travel insurance",
+      "prodName": "Platinum",
+      "prodAddAt": "10/10/2020"
+    },
+    {
+      "carrier": "Berkshire Hathway",
+      "description": "BHTP",
+      "prodName": "Aircare",
+      "prodAddAt": "2020-11-09",
+      "id": "ihsijUf"
+    },
+     {
+      "carrier": "Trawick",
+      "description": "Trawick Safe Travels",
+      "prodName": "Safe Travels",
+      "prodAddAt": "2020-11-09",
+      "id": "ihsijUf"
+    },
+    
+    
+    {
+      "carrier": "Berkshire Hathway",
+      "description": "BHTP AirCare",
+      "prodName": "AirCare",
+      "prodAddAt": "2020-11-10",
+      "id": "Ayunmmy"
+    }
+  ],
+  "carriers": [
+    {
+      "id": "1",
+      "name": "TyCollington@generali.com"
+    }
+  ]
+}
