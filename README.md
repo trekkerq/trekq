@@ -1,1 +1,1 @@
-JSON-Server data for testing travel insurance pricing from Trawick, AXA Assistance, BHTP for TrekkerQ dashoboards featuring Air, Hotel, Car, Cruise and more.
+JSON-Server data for testing travel insurance pricing from Trawick, AXA Assistance, BHTP for TrekkerQ dashboards featuring Air, Hotel, Car, Cruise and more.
