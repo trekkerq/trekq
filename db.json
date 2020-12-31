@@ -1,8 +1,7 @@
  {
-	"page": 1,
-	"total_results": 10000,
-	"total_pages": 500,
-	"results": [{
+	
+	"results": [
+		{
 		"popularity": 269.671,
 		"vote_count": 523,
 		"video": false,
@@ -19,5 +18,6 @@
 		"release_date": "2020-08-14"
 			}, 
 	
-	}]
+	}
+		   ]
 }
