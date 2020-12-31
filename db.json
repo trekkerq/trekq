@@ -1,6 +1,6 @@
 [{
         
-        "results": [{            
+        "results": {            
             "adult": false,
             "backdrop_path": "/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg",
             "genre_ids": [10749, 18],
@@ -15,6 +15,6 @@
             "video": false,
             "vote_average": 7.3,
             "vote_count": 2605
-        }]
+        }
     
 }]
